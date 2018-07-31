@@ -1,24 +1,23 @@
-# README
+# Notre application je-me-présente - projet THP 31 juillet 2018
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Après avoir cloné le repo
 
-Things you may want to cover:
+- `bundle install without--production`
 
-* Ruby version
+- `rails db:migrate`
 
-* System dependencies
+## L'application
 
-* Configuration
+### Heroku
 
-* Database creation
+Vous trouverez l'application hébergée sur Heroku au lien suivant : https://jmepresente-thp.herokuapp.com/
 
-* Database initialization
+### Le projet
 
-* How to run the test suite
+Notre mini site de présentation
+- une page /about avec une page /about/toi, et une autre /about/teamstras
+- une page /contact
 
-* Services (job queues, cache servers, search engines, etc.)
+## La team
 
-* Deployment instructions
-
-* ...
+Ce programme est made in Strasbourg, by Soraya FRUCTUOSO, Samaneh VAEZI et Hugo PAYET avec amour ! Bonne correction les amis :kissing_heart:
